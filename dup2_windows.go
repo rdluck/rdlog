@@ -4,7 +4,7 @@
 
 // +build windows
 
-package log
+package rdlog
 
 import (
 	"os"

@@ -1,0 +1,63 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;rdlog&gt;">
+    <CLASSES>
+      <root url="file://D:/code/go/src/liferich" />
+      <root url="file://D:/code/go/src/wallwa.com2.0" />
+      <root url="file://D:/code/go/src/beegoorm" />
+      <root url="file://D:/code/go/src/xjd_task" />
+      <root url="file://D:/code/go/src/webdata" />
+      <root url="file://D:/code/go/src/apiproject" />
+      <root url="file://D:/code/go/src/controllers" />
+      <root url="file://D:/code/go/src/zcm_activity2" />
+      <root url="file://D:/code/go/src/c#" />
+      <root url="file://D:/code/go/src/quickstart" />
+      <root url="file://D:/code/go/src/xjd_activity" />
+      <root url="file://D:/code/go/src/compress" />
+      <root url="file://D:/code/go/src/github.com" />
+      <root url="file://D:/code/go/src/golang.org" />
+      <root url="file://D:/code/go/src/zcm_tools" />
+      <root url="file://D:/code/go/src/文档" />
+      <root url="file://D:/code/go/src/tests" />
+      <root url="file://D:/code/go/src/xjd" />
+      <root url="file://$PROJECT_DIR$/../log" />
+      <root url="file://$PROJECT_DIR$/../comicsartapi" />
+      <root url="file://D:/code/go/src/jd" />
+      <root url="file://D:/code/go/src/myproject" />
+      <root url="file://D:/code/go/src/zcm_crm" />
+      <root url="file://D:/code/go/src/xjd_v1" />
+      <root url="file://D:/code/go/src/xjd_pc" />
+      <root url="file://D:/code/go/src/finance_insert" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://D:/code/go/src/liferich" />
+      <root url="file://D:/code/go/src/wallwa.com2.0" />
+      <root url="file://D:/code/go/src/beegoorm" />
+      <root url="file://D:/code/go/src/xjd_task" />
+      <root url="file://D:/code/go/src/webdata" />
+      <root url="file://D:/code/go/src/apiproject" />
+      <root url="file://D:/code/go/src/controllers" />
+      <root url="file://D:/code/go/src/zcm_activity2" />
+      <root url="file://D:/code/go/src/c#" />
+      <root url="file://D:/code/go/src/quickstart" />
+      <root url="file://D:/code/go/src/xjd_activity" />
+      <root url="file://D:/code/go/src/compress" />
+      <root url="file://D:/code/go/src/github.com" />
+      <root url="file://D:/code/go/src/golang.org" />
+      <root url="file://D:/code/go/src/zcm_tools" />
+      <root url="file://D:/code/go/src/文档" />
+      <root url="file://D:/code/go/src/tests" />
+      <root url="file://D:/code/go/src/xjd" />
+      <root url="file://$PROJECT_DIR$/../log" />
+      <root url="file://$PROJECT_DIR$/../comicsartapi" />
+      <root url="file://D:/code/go/src/jd" />
+      <root url="file://D:/code/go/src/myproject" />
+      <root url="file://D:/code/go/src/zcm_crm" />
+      <root url="file://D:/code/go/src/xjd_v1" />
+      <root url="file://D:/code/go/src/xjd_pc" />
+      <root url="file://D:/code/go/src/finance_insert" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
